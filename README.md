@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Raia
 
-<!--
-**raia525/raia525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT student. I work as a System Manager and as a student researcher in the R&D division of CoE AILO.
 
-Here are some ideas to get you started:
+I'm building my skills in Linux, Python, and Debian packaging, with the goal of contributing to open source and working on Ubuntu.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+- Learning Linux system administration (WSL2 / Ubuntu)
+- A Python command-line project with tests and CI
+- Packaging that project as a .deb
+- Finding my first open source contributions
+
+## Contributions
+My first contributions will be listed here once they are reviewed or merged.
+
+## Find me
+- LinkedIn: https://www.linkedin.com/in/raiapw/
+- Launchpad: https://launchpad.net/~claudetoken
