@@ -1,14 +1,14 @@
 # Hi, I'm Raia
 
-IT student. I work as a System Manager and as a student researcher in the R&D division of CoE AILO.
+IT undergraduate. I'm a member of the Research and Development Division at CoE AILO.
 
-I'm building my skills in Linux, Python, and Debian packaging, with the goal of contributing to open source and working on Ubuntu.
+Through my R&D work I have helped build analytics and optimization dashboards that use machine learning, statistical modeling, and LLM-based features. I am now strengthening my Linux and Python engineering skills, with the goal of contributing to open source.
 
 ## What I'm working on
-- Learning Linux system administration (WSL2 / Ubuntu)
+- Linux system administration on WSL2 / Ubuntu
 - A Python command-line project with tests and CI
 - Packaging that project as a .deb
-- Finding my first open source contributions
+- My first open source contributions (Ubuntu, Debian, or Python)
 
 ## Contributions
 My first contributions will be listed here once they are reviewed or merged.
