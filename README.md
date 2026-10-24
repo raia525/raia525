@@ -1,6 +1,6 @@
 # Hi, I'm Raia
 
-IT undergraduate. I'm a member of the Research and Development Division at CoE AILO.
+IT undergraduate and a student member of the Research and Development Division at an AI research center.
 
 Through my R&D work I have helped build analytics and optimization dashboards that use machine learning, statistical modeling, and LLM-based features. I am now strengthening my Linux and Python engineering skills, with the goal of contributing to open source.
 
