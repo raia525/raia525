@@ -17,14 +17,10 @@ My first contributions will be listed here once they are reviewed or merged.
 - LinkedIn: https://www.linkedin.com/in/raiapw/
 - Launchpad: https://launchpad.net/~claudetoken
 
-
 ## GitHub Stats
 
-<p align="center">
-  <img height="165" alt="Raia's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=raia525&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-    <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raia525&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+![Raia's contribution graph](https://ghchart.rshah.org/2ea44f/raia525)
 
-<p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=raia525&theme=github-dark&hide_border=true" />
-</p>
+![GitHub followers](https://img.shields.io/github/followers/raia525?style=for-the-badge&logo=github&labelColor=0d1117)
+
+![GitHub streak](https://streak-stats.demolab.com/?user=raia525&theme=github-dark&hide_border=true)
